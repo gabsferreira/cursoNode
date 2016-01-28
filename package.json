@@ -9,7 +9,10 @@
   "author": "gabriel ferreira",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.14.2",
     "ejs": "^2.4.1",
-    "express": "^4.13.4"
+    "express": "^4.13.4",
+    "express-load": "^1.1.15",
+    "mysql": "^2.10.2"
   }
 }
